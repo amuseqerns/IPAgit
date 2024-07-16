@@ -1,2 +1,2 @@
-# IPAgit 
+# IPAGIT
 ## Topic 1
